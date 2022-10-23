@@ -40,3 +40,7 @@ PWD es un patio de recreo de Docker que permite a los usuarios ejecutar comandos
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+![image](https://user-images.githubusercontent.com/91167211/197423040-d54e479a-7eac-47ef-9d88-b4a5ce7a2b81.png)
+
+
