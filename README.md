@@ -26,16 +26,16 @@ PWD es un patio de recreo de Docker que permite a los usuarios ejecutar comandos
 
 ------ Comando Básico de Docker ------
 
-//docker run: correr un contenedor// 
+>> docker run: correr un contenedor
 
-//docker ps: Listan los contenedores que están corriendo//
+>> docker ps: Listan los contenedores que están corriendo
 
-//(-- name serverweb): Es para colocar un nombre y sirve para identificar el docker y donde está corriendo//
+>> (-- name serverweb): Es para colocar un nombre y sirve para identificar el docker y donde está corriendo
 
-//80:80: Maquina anfitriona//
+>> 80:80: Maquina anfitriona
 
-//-d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
-nginx://
+>> -d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
