@@ -16,7 +16,7 @@ PWD es un patio de recreo de Docker que permite a los usuarios ejecutar comandos
 ![image](https://user-images.githubusercontent.com/91167211/197422234-faa1664b-95f2-4a8d-bcf6-799b21a05e4e.png)
 
 
-Para verificar si esta corriendo o esta correctamente instalado utilizar el comando : docker ps
+--- Para verificar si esta corriendo o esta correctamente instalado utilizar el comando : docker ps
 
 ![image](https://user-images.githubusercontent.com/91167211/197422378-926725da-e654-4b50-b502-10223889add9.png)
 
@@ -25,6 +25,7 @@ Para verificar si esta corriendo o esta correctamente instalado utilizar el coma
 ![image](https://user-images.githubusercontent.com/91167211/197422525-536896b6-9540-4fae-b716-c0a9c5e89a71.png)
 
 ------ Comando Básico de Docker ------
+
 //docker run: correr un contenedor// 
 
 //docker ps: Listan los contenedores que están corriendo//
