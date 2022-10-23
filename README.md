@@ -24,13 +24,17 @@ Para verificar si esta corriendo o esta correctamente instalado utilizar el coma
 
 ![image](https://user-images.githubusercontent.com/91167211/197422525-536896b6-9540-4fae-b716-c0a9c5e89a71.png)
 
-Comando Básico de Docker
-° docker run: correr un contenedor
-° docker ps: Listan los contenedores que están corriendo
-° (-- name serverweb): Es para colocar un nombre y sirve para identificar el docker y donde está corriendo
-° 80:80: Maquina anfitriona
-° -d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
-° nginx:
+------ Comando Básico de Docker ------
+//docker run: correr un contenedor// 
+
+//docker ps: Listan los contenedores que están corriendo//
+
+//(-- name serverweb): Es para colocar un nombre y sirve para identificar el docker y donde está corriendo//
+
+//80:80: Maquina anfitriona//
+
+//-d: Permite seguir ocupando la línea de comandos, si usamos el proceso pasa a segundo plano
+nginx://
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
