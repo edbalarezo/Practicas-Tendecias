@@ -43,6 +43,26 @@ PWD es un patio de recreo de Docker que permite a los usuarios ejecutar comandos
                                                                    Clase #2
 
 
+-- Se crea un servidor
+
+![image](https://user-images.githubusercontent.com/91167211/197425431-8f17650b-e94f-4f14-adcc-efd54f6032d9.png)
+
+-- Creamos un repositorio donde tenemos una clase html
+
+![image](https://user-images.githubusercontent.com/91167211/197425504-44e346df-cb56-4fc1-b9ff-0643ce563ed5.png)
+
+-- Ingresamos el comando docker cp index2.html servidor:/usr/share/nginx/html/index2.html (para extraer o añadir la informacion del html) 
+
+-- clonamos el repositorio y colocamos vi index2.html para elaborar una estructura html
+
+![image](https://user-images.githubusercontent.com/91167211/197425461-e7c3a08f-3780-49c0-a8a5-0cf9e7cbb155.png)
+
+
+![image](https://user-images.githubusercontent.com/91167211/197425729-c0758309-43b4-49ed-8692-bed8e0641ba5.png)
+
+
+
+
 
 
 
