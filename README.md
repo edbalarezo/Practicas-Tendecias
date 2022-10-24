@@ -1,4 +1,4 @@
-                                                               Clase #1
+                                                       Clase #1
 
 
 Los contenedores son una forma de virtualización del sistema operativo. Un solo contenedor se puede usar para ejecutar cualquier cosa, desde un microservicio o un proceso de software a una aplicación de mayor tamaño. Dentro de un contenedor se encuentran todos los ejecutables
@@ -43,7 +43,7 @@ PWD es un patio de recreo de Docker que permite a los usuarios ejecutar comandos
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-                                                               Clase #2
+                                                       Clase #2
 
 
 -- Se crea un servidor
